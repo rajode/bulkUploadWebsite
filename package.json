@@ -1,0 +1,23 @@
+{
+  "name": "bulkUploadWebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajode/bulkUploadWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajode/bulkUploadWebsite/issues"
+  },
+  "homepage": "https://github.com/rajode/bulkUploadWebsite#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
